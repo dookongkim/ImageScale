@@ -7,6 +7,7 @@ import android.view.View;
 
 //commit1 - 기본 설계 완료
 //commit2 - 기능1완성
+//commit3 - 홍길동 기능 2 추가
 
 
 public class MyImageView extends View {
